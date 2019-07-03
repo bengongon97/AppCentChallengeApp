@@ -1,5 +1,5 @@
 # AppCentChallengeApp
-This is a basic application developed to show recent photos uploaded to Flickr as per the request of Appcent Mobi Inc. pre-interview request.
+This is a basic application developed to show recent photos uploaded to Flickr as per a company's pre-interview request.
 
 Uses Flickr API.
 
